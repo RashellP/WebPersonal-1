@@ -5,10 +5,10 @@ header{
     box-shadow:  
 }
 h1{
-    text-align: center;
+    text-align: right;
 }
 li{
     display: inline-block;
-    font-size: 30px;
+    font-size: 40px;
     margin-left:7%;
 }
